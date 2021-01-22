@@ -29,18 +29,18 @@
 
 <h3>Languages and Tools :hammer_and_wrench:</h3>
 <p>
-<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
-<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
-<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c-2975.svg"/>
-<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
-<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/>
-<img width="53" height="53" hspace="10" src="https://cdn.worldvectorlogo.com/logos/html5-1.svg"/>
-<img width="53" height="53" hspace="10" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"/>
-<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/javascript-2.svg"/>
-<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/>
-<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg"/>
-<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
+<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
+<img width="45" height="45" hspace="10" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
+<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c-2975.svg"/>
+<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
+<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/>
+<img width="48" height="48" hspace="10" src="https://cdn.worldvectorlogo.com/logos/html5-1.svg"/>
+<img width="48" height="48" hspace="10" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"/>
+<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/javascript-2.svg"/>
+<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/>
+<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg"/>
+<img width="45" height="45" hspace="10" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+<img width="45" height="45" hspace="10" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
 </p>
  
 ---
