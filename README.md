@@ -34,7 +34,22 @@
 <img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c-2975.svg"/>
 <img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
 <img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/>
+<img width="53" height="53" hspace="10" src="https://cdn.worldvectorlogo.com/logos/html5-1.svg"/>
+<img width="53" height="53" hspace="10" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"/>
+<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/javascript-2.svg"/>
+<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/>
+<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg"/>
+<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
 </p>
+ 
+---
+ 
+<h3> <details> <summary> GitHub Stats 	:hourglass_flowing_sand: </summary> <p align="center"> <br> <br> <img src="https://komarev.com/ghpvc/?username=BarathKumarBK-15&label=PROFILE+VIEWS&color=ff3d67"/> <br> <br> <img src="https://github-readme-stats.vercel.app/api?username=BarathKumarBK-15&show_icons=true&theme=radical"/> </p> </details> </h3>
+
+<h3> <details> <summary> Languages Used :gear: </summary> <p align="center"> <br> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarathKumarBK-15&layout=compact"/> </details> </h3>
+ 
+<h3> <details> <summary> GitHub Streak :chains: </summary> <p align="center"> <br> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=BarathKumarBK-15&theme=radical"/> </details> </h3>
  
 <!--
 **BarathKumarBK-15/BarathKumarBK-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
