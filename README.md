@@ -11,6 +11,7 @@
 - Competitive Programmer @ CodeForces, Hackerrank and CodeChef
 - BE Computer Science Student @ PSG College of Technology
 - Working on Front-End Web development projects
+- Learning and Working on iOS development
 - Eager to work on open source projects
 - Hoping to work on Android
 
@@ -23,7 +24,7 @@
 <a href="https://twitter.com/BarathK99918581" target="_blank"> <img height="27" src="https://user-images.githubusercontent.com/66675130/105475557-7e2b1f00-5cc5-11eb-94b2-c9fb0a35ff25.png"> </a>
 <a href="https://www.hackerrank.com/barathganeshkum1" target="_blank"> <img height="27" src="https://user-images.githubusercontent.com/66675130/105476483-b121e280-5cc6-11eb-8280-680a10fe2880.png"> </a>
 <a href="https://www.codechef.com/users/barathkumar15" target="_blank"> <img height="40" src="https://user-images.githubusercontent.com/66675130/105477250-9f8d0a80-5cc7-11eb-8e88-9e4ca0122ce4.png"> </a>
-<a href="https://codeforces.com/profile/BK15" target="_blank"> <img height="27" src="https://user-images.githubusercontent.com/66675130/105478796-a7e64500-5cc9-11eb-9ea6-f00d574dd208.png"> </a>
+<a href="https://codeforces.com/profile/BK15" target="_blank"> <img height="23" width="125" src="https://user-images.githubusercontent.com/66675130/105478796-a7e64500-5cc9-11eb-9ea6-f00d574dd208.png"> </a>
 
 ---
 
@@ -41,6 +42,9 @@
 <img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg"/>
 <img width="45" height="45" hspace="10" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 <img width="45" height="45" hspace="10" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
+<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/swift-15.svg"/>
+<img width="45" height="45" hspace="10" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png"/>
+<img width="45" height="45" hspace="10" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png"/>
 </p>
  
 ---
