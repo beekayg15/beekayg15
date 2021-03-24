@@ -19,12 +19,12 @@
 
 <h3>Profiles & Contact Info :telephone:</h3>
 
-<a href="https://www.linkedin.com/in/barath-kumar-g-593194191/" target="_blank"> <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/barathkumarbk-15/" target="_blank"> <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="mailto:barathganeshkumar2002@gmail.com" target="_blank"> <img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"> </a>
-<a href="https://twitter.com/BarathK99918581" target="_blank"> <img height="27" src="https://user-images.githubusercontent.com/66675130/105475557-7e2b1f00-5cc5-11eb-94b2-c9fb0a35ff25.png"> </a>
+<a href="https://twitter.com/BarathGaneshKu1" target="_blank"> <img height="27" src="https://user-images.githubusercontent.com/66675130/105475557-7e2b1f00-5cc5-11eb-94b2-c9fb0a35ff25.png"> </a>
 <a href="https://www.hackerrank.com/barathganeshkum1" target="_blank"> <img height="27" src="https://user-images.githubusercontent.com/66675130/105476483-b121e280-5cc6-11eb-8280-680a10fe2880.png"> </a>
 <a href="https://www.codechef.com/users/barathkumar15" target="_blank"> <img height="40" src="https://user-images.githubusercontent.com/66675130/105477250-9f8d0a80-5cc7-11eb-8e88-9e4ca0122ce4.png"> </a>
-<a href="https://codeforces.com/profile/BK15" target="_blank"> <img height="23" width="125" src="https://user-images.githubusercontent.com/66675130/105478796-a7e64500-5cc9-11eb-9ea6-f00d574dd208.png"> </a>
+<a href="https://codeforces.com/profile/BK15" target="_blank"> <img height="23" width="135" style="clip-path: rect(10px, 0px, 0px, 0px);" src="https://user-images.githubusercontent.com/66675130/105478796-a7e64500-5cc9-11eb-9ea6-f00d574dd208.png"> </a>
 
 ---
 
