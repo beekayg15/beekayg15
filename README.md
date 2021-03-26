@@ -13,7 +13,7 @@
 - Working on Front-End Web development projects
 - Learning and Working on iOS development
 - Eager to work on open source projects
-- Hoping to work on Android
+- Hoping to work on Android and Django
 
 ---
 
