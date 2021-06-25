@@ -30,21 +30,27 @@
 
 <h3>Languages and Tools :hammer_and_wrench:</h3>
 <p>
-<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
-<img width="45" height="45" hspace="10" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
-<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c-2975.svg"/>
-<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
-<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/>
-<img width="48" height="48" hspace="10" src="https://cdn.worldvectorlogo.com/logos/html5-1.svg"/>
-<img width="48" height="48" hspace="10" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"/>
-<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/javascript-2.svg"/>
-<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/>
-<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg"/>
-<img width="45" height="45" hspace="10" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-<img width="45" height="45" hspace="10" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
-<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/swift-15.svg"/>
-<img width="45" height="45" hspace="10" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png"/>
-<img width="45" height="45" hspace="10" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png"/>
+<img width="45" height="45" hspace="10" src="icons/1.svg"/>
+<img width="45" height="45" hspace="10" src="icons/2.svg"/>
+<img width="45" height="45" hspace="10" src="icons/3.png"/>
+<img width="45" height="45" hspace="10" src="icons/4.svg"/>
+<img width="45" height="45" hspace="10" src="icons/5.svg"/>
+<img width="48" height="48" hspace="10" src="icons/6.svg"/>
+<img width="48" height="48" hspace="10" src="icons/7.png"/>
+<img width="45" height="45" hspace="10" src="icons/8.svg"/>
+<img width="45" height="45" hspace="10" src="icons/9.svg"/>
+<img width="45" height="45" hspace="10" src="icons/10.svg"/>
+<img width="45" height="45" hspace="10" src="icons/11.svg"/>
+<img width="45" height="45" hspace="10" src="icons/12.svg"/>
+<img width="45" height="45" hspace="10" src="icons/13.svg"/>
+<img width="45" height="45" hspace="10" src="icons/14.png"/>
+<img width="45" height="45" hspace="10" src="icons/15.png"/>
+<img width="45" height="45" hspace="10" src="icons/16.svg"/>
+<img width="45" height="45" hspace="10" src="icons/17.png"/>
+<img width="45" height="45" hspace="10" src="icons/18.svg"/> 
+<img width="45" height="45" hspace="10" src="icons/19.svg"/>
+<img width="45" height="45" hspace="10" src="icons/20.svg"/>
+<img width="45" height="45" hspace="10" src="icons/21.png"/>
 </p>
  
 ---
