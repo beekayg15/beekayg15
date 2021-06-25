@@ -2,7 +2,7 @@
 <img width="160" height="200" hspace="10" src="https://user-images.githubusercontent.com/66675130/105468616-2f798700-5cbd-11eb-8a4c-ed69364078ce.png"/>
 </h1>
 
-<h2 align="center"> Competitive Programmer :coffee: and Front-End Web Developer :computer:</h2>
+<h2 align="center"> Competitive Programmer :coffee: and Front-End Web & iOS Developer :computer:</h2>
 
 <img align="left" width="190" height="200" src="https://user-images.githubusercontent.com/66675130/105472119-8b460f00-5cc1-11eb-8932-9e02c6933087.png"/>
 
