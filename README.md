@@ -2,7 +2,7 @@
 <img width="160" height="200" hspace="10" src="icons/h1.png"/>
 </h1>
 
-<h2 align="center"> Competitive Programmer :coffee: and Front-End Web & iOS Developer :computer:</h2>
+<h2 align="center"> Competitive Programmer :coffee: and Front-End Web :computer:</h2>
 
 <img align="left" width="190" height="200" src="icons/h2.png"/>
 
