@@ -55,7 +55,6 @@
 <img width="45" height="45" hspace="10" src="icons/23.png"/>
 <img width="45" height="45" hspace="10" src="icons/24.png"/>
 <img width="45" height="45" hspace="10" src="icons/25.png"/>
-<img width="45" height="45" hspace="10" src="icons/26.png"/>
 </p>
  
 ---
