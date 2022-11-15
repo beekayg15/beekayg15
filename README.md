@@ -8,6 +8,7 @@
 
 <h3>Get to know me :dart: </h3>
 
+- Take a quick peek into my <a href = "https://github.com/BarathKumarBK-15/Accolades">achievements</a>
 - Competitive Programmer @ CodeForces, Hackerrank and CodeChef
 - BE Computer Science Student @ PSG College of Technology
 - Working on Front-End Web development projects
