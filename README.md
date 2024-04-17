@@ -22,7 +22,7 @@
 <a href="https://barathkumarbk-15.github.io/Barath-Ganesh-Kumar/"> <img height = "27" src = "https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png"> </a>
 <a href="https://www.linkedin.com/in/barathkumarbk-15/" target="_blank"> <img height="30" src="icons/p1.svg"/> </a>
 <a href="mailto:barathganeshkumar2002@gmail.com" target="_blank"> <img height="30" src="icons/p2.svg"/> </a>
-<a href="https://twitter.com/BarathGaneshKu1" target="_blank"> <img height="27" src="icons/p3.png"/> </a>
+<a href="https://twitter.com/BarathKumar_15" target="_blank"> <img height="27" src="icons/p3.png"/> </a>
 <a href="https://www.hackerrank.com/barathganeshkum1" target="_blank"> <img height="27" src="icons/p4.png"/> </a>
 <a href="https://www.codechef.com/users/barathkumar15" target="_blank"> <img height="40" src="icons/p5.png"/> </a>
 <a href="https://codeforces.com/profile/BK15" target="_blank"> <img height="23" width="135" style="clip-path: rect(10px, 0px, 0px, 0px);" src="icons/p6.png"/> </a>
