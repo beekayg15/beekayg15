@@ -59,11 +59,11 @@
  
 ---
  
-<h3> <details> <summary> GitHub Stats 	:hourglass_flowing_sand: </summary> <p align="center"> <br> <br> <img src="https://komarev.com/ghpvc/?username=BarathKumarBK-15&label=PROFILE+VIEWS&color=ff3d67"/> <br> <br> <img src="https://github-readme-stats.vercel.app/api?username=BarathKumarBK-15&show_icons=true&theme=radical"/> </p> </details> </h3>
+<h3> <details> <summary> GitHub Stats 	:hourglass_flowing_sand: </summary> <p align="center"> <br> <br> <img src="https://komarev.com/ghpvc/?username=beekayg15&label=PROFILE+VIEWS&color=ff3d67"/> <br> <br> <img src="https://github-readme-stats.vercel.app/api?username=BarathKumarBK-15&show_icons=true&theme=radical"/> </p> </details> </h3>
 
-<h3> <details> <summary> Languages Used :gear: </summary> <p align="center"> <br> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarathKumarBK-15&layout=compact"/> </details> </h3>
+<h3> <details> <summary> Languages Used :gear: </summary> <p align="center"> <br> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beekayg15&layout=compact"/> </details> </h3>
  
-<h3> <details> <summary> GitHub Streak :chains: </summary> <p align="center"> <br> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=BarathKumarBK-15&theme=radical"/> </details> </h3>
+<h3> <details> <summary> GitHub Streak :chains: </summary> <p align="center"> <br> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=beekayg15&theme=radical"/> </details> </h3>
  
 <!--
 **BarathKumarBK-15/BarathKumarBK-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
