@@ -59,7 +59,7 @@
  
 ---
  
-<h3> <details> <summary> GitHub Stats 	:hourglass_flowing_sand: </summary> <p align="center"> <br> <br> <img src="https://komarev.com/ghpvc/?username=beekayg15&label=PROFILE+VIEWS&color=ff3d67"/> <br> <br> <img src="https://github-readme-stats.vercel.app/api?username=beekayg15&show_icons=true&theme=radical"/> </p> </details> </h3>
+<h3> <details> <summary> GitHub Stats </summary> <p align="center"> <br> <br> <img src="https://komarev.com/ghpvc/?username=beekayg15&label=PROFILE+VIEWS&color=ff3d67"/> <br> <br> <img src="https://github-readme-stats.vercel.app/api?username=beekayg15&show_icons=true&theme=radical"/> </p> </details> </h3>
 
 <h3> <details> <summary> Languages Used :gear: </summary> <p align="center"> <br> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beekayg15&layout=compact"/> </details> </h3>
  
