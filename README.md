@@ -8,6 +8,7 @@
 
 <h3>Get to know me :dart: </h3>
 
+- Take a closer look at my profile @ <a href="beekayg15.github.io/" target="_blank">beekayg15.github.io/</a>
 - Grad Student at NYU, Courant Institute of Mathematical Sciences
 - Take a quick peek into my <a href = "https://github.com/beekayg15/Accolades">achievements</a>
 - Competitive Programmer @ CodeForces, Hackerrank and CodeChef
