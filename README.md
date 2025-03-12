@@ -11,9 +11,9 @@
 - Take a closer look at my profile @ <a href="https://beekayg15.github.io/" target="_blank">beekayg15.github.io/</a>
 - Grad Student at NYU, Courant Institute of Mathematical Sciences
 - Take a quick peek into my <a href = "https://github.com/beekayg15/Accolades">achievements</a>
+- Learning and Working on Cryptography and ZK projects
 - Competitive Programmer @ CodeForces, Hackerrank and CodeChef
 - BE Computer Science Student @ PSG College of Technology
-- Learning and Working on Full-Stack Web development projects
 - Eager to work on open source projects
 
 ---
