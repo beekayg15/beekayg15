@@ -8,8 +8,8 @@
 
 <h3>Get to know me :dart: </h3>
 
-- Cryptography Engineer @ <a href="https://nexus.xyz/" target="_blank">Nexus</a>
-- Take a closer look at my profile @ <a href="https://beekayg15.github.io/" target="_blank">beekayg15.github.io/</a>
+- Member of Technical Staff @ <a href="https://nexus.xyz/" target="_blank">Nexus</a>
+- Take a closer look at my profile @ <a href="https://beekayg15.com/" target="_blank">beekayg15.com/</a>
 - MS CS at NYU, Courant Institute of Mathematical Sciences & BE CSE @ PSG College of Technology
 - Learning and Working on Cryptography and ZK projects
 - Competitive Programmer @ CodeForces, Hackerrank and CodeChef
